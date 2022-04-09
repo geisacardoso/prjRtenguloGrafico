@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjRetanguloGrafico", "prjRetanguloGrafico.csproj", "{97C8AE53-4BC7-4DB5-9F91-A24FC4844A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C8AE53-4BC7-4DB5-9F91-A24FC4844A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C8AE53-4BC7-4DB5-9F91-A24FC4844A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C8AE53-4BC7-4DB5-9F91-A24FC4844A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C8AE53-4BC7-4DB5-9F91-A24FC4844A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F12BFD-4149-48C5-8217-C41C4229350E}
+	EndGlobalSection
+EndGlobal

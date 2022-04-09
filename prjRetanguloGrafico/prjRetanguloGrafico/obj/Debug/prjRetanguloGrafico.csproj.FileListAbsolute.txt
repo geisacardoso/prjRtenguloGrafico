@@ -1,0 +1,10 @@
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\bin\Debug\prjRetanguloGrafico.exe.config
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\bin\Debug\prjRetanguloGrafico.exe
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\bin\Debug\prjRetanguloGrafico.pdb
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.csproj.AssemblyReference.cache
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.visao.Form1.resources
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.Properties.Resources.resources
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.csproj.GenerateResource.cache
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.csproj.CoreCompileInputs.cache
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.exe
+D:\2021\3J\QTS\prjRetanguloGrafico\prjRetanguloGrafico\obj\Debug\prjRetanguloGrafico.pdb
